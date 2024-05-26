@@ -1,0 +1,9 @@
+class AddPreviousVersionTo<%= table_name.camelize %> < ActiveRecord::Migration[5.2]
+  def up
+    add_column :<%= table_name %>, :previous_version, :jsonb
+  end
+
+  def down
+    remove_column :<%= table_name %>, :previous_version
+  end
+end
