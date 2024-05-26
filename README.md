@@ -18,8 +18,8 @@ Or install it yourself as:
     $ gem install arjad_version_tracker
 
 ## Usage
-previous_version_string = YourModal.previous_version
-previous_version = JOSN.parse(previous_version_string)
+    previous_version_string = YourModal.previous_version
+    previous_version = JOSN.parse(previous_version_string)
 
 
 ## Contributing
