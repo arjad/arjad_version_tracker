@@ -12,7 +12,7 @@ gem 'arjad_version_tracker'
 And then execute:
 
     $ bundle install
-
+ohh
 Or install it yourself as:
 
     $ gem install arjad_version_tracker
