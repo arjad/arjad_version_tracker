@@ -1,9 +1,13 @@
 # ArjadVersionTracker
-Get last Version of Modal in Rails Application.
+Get last Version of Modal in Rails Application. <br>
+Link: https://rubygems.org/gems/arjad_version_tracker/versions/0.5.0?locale=en
+
 
 ## Installation
 
 Add this line to your application's Gemfile:
+
+
 
 ```ruby
 gem 'arjad_version_tracker'
